@@ -25,4 +25,9 @@ like- ("DENSE"), ("FLATTEN"). compile the model with an optimizer and loss fucti
  
 • <ins>in my project i used [MatplotLib.pyplot(plt)] to show images and display prediction</ins> 
 
-## **SOME VIDEOS OF MY PROJECT MODEL **
+## SOME VIDEOS OF MY PROJECT MODEL 
+
+ https://github.com/user-attachments/assets/98c4d47c-52b9-431e-bfc0-b067adceae7f
+
+
+
