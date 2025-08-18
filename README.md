@@ -1,5 +1,5 @@
 # AI-image-predictor
-This is my very first coding project in the journey to the top UK university, i have copleted this with help of Tensorflow and Keras to built a beginner friendly neural network to classify handwritten digits from MNIST dataset
+This is my very first coding project in the journey to the top UK university, i have copleted this with help of Tensorflow and Keras to built a beginner friendly neural network to classify handwritten digits from MNIST dataset on **GOOGLE COLLAB**
 HERE I AM GOING TO TELL YOU..... :blush:
 
 ## 1- what does this project do :thinking:
@@ -25,9 +25,11 @@ like- ("DENSE"), ("FLATTEN"). compile the model with an optimizer and loss fucti
  
 • <ins>in my project i used [MatplotLib.pyplot(plt)] to show images and display prediction</ins> 
 
-## SOME VIDEOS OF MY PROJECT MODEL 
+## SOME VIDEOS AND SCREEN SHOTS OF MY PROJECT MODEL 🎥
 
  https://github.com/user-attachments/assets/98c4d47c-52b9-431e-bfc0-b067adceae7f
 
+
+https://github.com/user-attachments/assets/9f5f17a2-b975-48d1-a9e2-ba8422746998
 
 
