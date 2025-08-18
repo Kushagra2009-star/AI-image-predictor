@@ -33,3 +33,4 @@ like- ("DENSE"), ("FLATTEN"). compile the model with an optimizer and loss fucti
 https://github.com/user-attachments/assets/9f5f17a2-b975-48d1-a9e2-ba8422746998
 
 
+<img width="1366" height="766" alt="Image" src="https://github.com/user-attachments/assets/cea6d834-cf9a-4c25-9179-b763d2d99154" />
